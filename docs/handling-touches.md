@@ -3,7 +3,7 @@ id: handling-touches
 title: Handling Touches
 ---
 
-Users interact with mobile apps mainly through touch. They can use a combination of gestures, such as tapping on a button, scrolling a list, or zooming on a map. React Native provides components to handle all sorts of common gestures, as well as a comprehensive [gesture responder system](gesture-responder-system.md) to allow for more advanced gesture recognition, but the one component you will most likely be interested in is the basic Button.
+Users interact with mobile apps is mainly through touch. They can use a combination of gestures, such as tapping on a button, scrolling a list, or zooming on a map. React Native provides components to handle all sorts of common gestures, as well as a comprehensive [gesture responder system](gesture-responder-system.md) to allow for more advanced gesture recognition, but the one component you will most likely be interested in is the basic Button.
 
 ## Displaying a basic button
 
